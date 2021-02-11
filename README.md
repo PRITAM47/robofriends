@@ -1,4 +1,6 @@
 # robofriends
+
+Visit the site at - https://pritam47.github.io/robofriends/
 Created using react framework. All the information are like image src, name , email id are fetched from the APIs listed below - 
 1. The image is fetched from https://robohash.org/
 2. The detail lists like name, email list are fetched from - https://jsonplaceholder.typicode.com/users
